@@ -6,7 +6,7 @@
 ### Tecnologías utilizadas 🛠️
 - [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Js](https://developer.mozilla.org/es/docs/Web/JavaScript)
-- [Js](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 ### Cómo utilizar
 
 Puedes descargar el repositorio usando el siguente comando:
