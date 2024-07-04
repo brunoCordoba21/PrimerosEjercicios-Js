@@ -4,8 +4,8 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales
 */
 
 const numero1 = parseInt(prompt ("ingrese un numero"))
-console.log (numero1)
+
 const numero2 = parseInt (prompt("ingrese un numero"))
-console.log(numero2)
+
 const resultado = (numero1 + numero2) ;
 console.log (resultado)

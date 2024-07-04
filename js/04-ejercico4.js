@@ -4,5 +4,5 @@ Ejemplo:
 input: Coder 
 Output: Hola Coder
 */
-let nombreUsuario = prompt("Por favo, ingresar el nombre de usuario")
+let nombreUsuario = prompt("Por favor, ingresar el nombre de usuario")
 document.write ("hola: " + nombreUsuario)
