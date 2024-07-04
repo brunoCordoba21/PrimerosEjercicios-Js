@@ -9,7 +9,7 @@
 - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 ### Cómo utilizar
 
-Puedes descargar el repositorio usando el siguente comando:
+Puedes descargar el repositorio usando el siguiente link:
 
 ```sh
 $ git clone https://github.com/brunoCordoba21/PrimerosEjercicios-Js.git
