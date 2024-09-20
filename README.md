@@ -17,6 +17,6 @@ $ git clone https://github.com/brunoCordoba21/PrimerosEjercicios-Js.git
 
 ## Autor 🧑‍💻
 
-[![Bruno Cordoba](https://avatars.githubusercontent.com/u/122135338?v=4)](https://github.com/brunocordoba21) 
+
 
 [Bruno Cordoba](https://github.com/brunoCordoba21)  
